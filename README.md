@@ -1,4 +1,3 @@
-[![Python CI](https://github.com/nogibjj/jayliu_ids_de_week9/actions/workflows/ci.yml/badge.svg)](https://github.com/nogibjj/jayliu_ids_de_week9/actions/workflows/ci.yml)
 # Week 9 Mini Project
 
 ## Project Overview
